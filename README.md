@@ -1,0 +1,2 @@
+# Course-project-NYPD-misconduct
+This is a course project focuses on the misconduct complaints against the NYPD, investigating questions related to the disciplinary actions given to police officers accused of various types of misconduct. Two core questions for this project project are: _**What factors explain whether police officers are penalized or not for their misconduct?**_ And _**in these officers who got penalties, what factors explain the different penalties given to police officers?**_
